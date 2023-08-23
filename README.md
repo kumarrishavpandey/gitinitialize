@@ -11,3 +11,4 @@ To start a git repo locally follow the following steps:-
  e.g.-- "git remote add kumarrishavpandey https://github.com/kumarrishavpandey/gitinitialize.git".
 9. we'll go for git push type "git push --force <repo url>"
   e.g.-- "git push --force  https://github.com/kumarrishavpandey/gitinitialize.git".
+10. open git git desktop and open the repo there publish it and you can easily push the changes by command "git push".
